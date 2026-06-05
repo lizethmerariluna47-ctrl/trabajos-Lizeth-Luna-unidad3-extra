@@ -1,0 +1,7 @@
+echo "# trabajos-Lizeth-Luna-unidad3-extra" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/lizethmerariluna47-ctrl/trabajos-Lizeth-Luna-unidad3-extra.git
+git push -f origin main
